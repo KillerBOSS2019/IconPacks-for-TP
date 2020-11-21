@@ -6,7 +6,7 @@ This program allows you to easily create Touch Portal iconpacks for your icons.
 
 ***
 
-## Installation
+## Usage
 Download the zip and unzip it
 run the exe
 fill in everything
