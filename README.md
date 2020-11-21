@@ -2,6 +2,7 @@
 
 This program allows you to easily create Touch Portal iconpacks for your icons.
 
+### About Touch Portal
 >[Touch Portal](https://Touch-Portal.com/) is a companion app to control a PC or a Mac by using a deck of buttons to improve the workflow & productivity of game streamers, content creators and professionals.
 ***
 ## Usage
