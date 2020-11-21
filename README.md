@@ -1,14 +1,10 @@
 # Touch-Portal-Icon-Maker
 
-This program allows you to easily create Touch Portal iconpacks for your custom icons.
+This program allows you to easily create Touch Portal iconpacks for your icons.
 
 >[Touch Portal](https://Touch-Portal.com/) is a companion app to control a PC or a Mac by using a deck of buttons to improve the workflow & productivity of game streamers, content creators and professionals.
 
-<br/>
-
 ***
-
-<br/>
 
 ## Installation
 Download the zip and unzip it
