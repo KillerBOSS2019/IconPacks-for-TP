@@ -1,4 +1,4 @@
-# Touch-Portal-Icon-Maker
+# Touch Portal Icon Maker
 
 This program allows you to easily create Touch Portal iconpacks for your icons.
 
